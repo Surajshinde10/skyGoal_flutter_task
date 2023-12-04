@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:skygoal_flutter_task/res/color.dart';
+import '../models/details_item.dart';
 import 'details_clg_list.dart';
 
 class CollegeListScreen extends StatelessWidget {
